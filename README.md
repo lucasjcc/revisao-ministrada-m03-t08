@@ -1,11 +1,11 @@
 # Revisão módulo 03
 
 ## Descrição da proposta
-Contruir uma RESTful API que simule funcionalidades de aplicativo de gestão de gastos:
+Construir uma RESTful API que simule funcionalidades de um aplicativo de gestão de gastos:
 
 - Cadastrar usuário;
 - Fazer login do usuário;
-- O usuário deve ser capaz de exibir seus os gasto;
+- O usuário deve ser capaz de exibir seus gasto;
 - O usuário deve ser capaz de detalhar um gasto;
 - O usuário deve ser capaz de editar um gasto;
 - O usuário deve ser capaz de excluir um gasto.
