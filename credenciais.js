@@ -1,3 +1,6 @@
+/* Coloque esse arquivo no .gitignore, que é para quem
+acessar seu projeto no github não ter acesso */
+
 const BD_USER = 'postgres';
 const BD_HOST = 'localhost';
 const BD_DATABASE = 'revisao03';
