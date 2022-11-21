@@ -1,0 +1,22 @@
+{
+  "name": "revisao-m03",
+  "version": "1.0.0",
+  "description": "## Descrição da proposta Contruir uma RESTful API que simule funcionalidades de aplicativo de gestão de gastos:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.8.0"
+  }
+}
